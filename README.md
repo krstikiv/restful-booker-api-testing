@@ -1,9 +1,11 @@
 # bootcamp_axios_task
  Structure of the project to prepare the home-task
 
-The home task rules.
-Please base on your previous experience with a postman collection, repeat the postman collection with
-a booking via  axios and jest.
+The task rules.
+Repeating the postman collection with a booking via axios and jest.
+
+Install dependencies
+'''yarn install'''
 
 Project preparation.
 1. Inside the package.json file for you available the basic libraries. Please install it via using command "yarn install". (without "")
@@ -21,12 +23,3 @@ Flow to complete the task:
 8. Inside the folder bodies ("project_name/src/bodies")  please create the bookingBody.js file where you will be initialized all your bodies which needed for your scenario. And Assign the values from other files inside this boides. Only for depositPaid you can use the static value true/false. Other data should be generated or taken from the varibles file.
 9. Try the using the import/export statement. Not the require!
 Good luck! =)
-## License
-
-At CodeScreen, we strongly value the integrity and privacy of our assessments. As a result, this repository is under exclusive copyright, which means you **do not** have permission to share your solution to this test publicly (i.e., inside a public GitHub/GitLab repo, on Reddit, etc.). <br>
-
-## Submitting your solution
-
-Please push your changes to the `main branch` of this repository. You can push one or more commits. <br>
-
-Once you are finished with the task, please click the `Submit Solution` link on <a href="https://app.codescreen.com/candidate/08275a64-e164-4f48-a021-960bc9b0f7b4" target="_blank">this screen</a>.
