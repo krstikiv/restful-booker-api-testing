@@ -5,7 +5,10 @@ The task rules.
 Repeating the postman collection with a booking via axios and jest.
 
 Install dependencies
-'''yarn install'''
+```yarn install```
+
+Run tests
+```yarn run jest```
 
 Project preparation.
 1. Inside the package.json file for you available the basic libraries. Please install it via using command "yarn install". (without "")
